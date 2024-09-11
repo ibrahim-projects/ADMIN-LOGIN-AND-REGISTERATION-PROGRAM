@@ -1,4 +1,3 @@
-//      TASK - 2
 //      ADMIN LOGIN AND REGISTRATION SYSTEM
 
 #include <iostream>
